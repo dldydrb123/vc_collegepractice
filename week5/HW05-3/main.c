@@ -6,7 +6,7 @@
 
 #include <windows.h>
 
-POINT startPoint = { 0 };
+POINT startPoint = { 0 }; // 진짜 씨발 내가 논리적으로 생각해낸걸 chatgpt가 거의 유사하게 짰는데 문법적으로 이상한 부분을 내가 고치지 못해서 10시부터 아침 6시까지 이지@랄을 했다는게 믿기지가 않다
 POINT endPoint = { 0 };
 POINT startPoint1 = { 0 };
 POINT endPoint1 = { 0 };
@@ -173,7 +173,7 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
     // 윈도우 생성
     HWND hwnd = CreateWindow(
         wc.lpszClassName,
-        TEXT("202007022 전성현 5주차 과제"),
+        TEXT("202107054 이용규 5주차 과제"),
         WS_OVERLAPPED | WS_CAPTION | WS_SYSMENU | WS_MINIMIZEBOX | WS_MAXIMIZEBOX, // 크기 조정 및 버튼 비활성화
         0, 0,
         800, 600, // 고정된 창 크기
@@ -209,6 +209,6 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
         }
     }
 
-    //종료 메시지 보내기
+    //종료 메시지 보내기 
     return (int)msg.wParam;
 }
