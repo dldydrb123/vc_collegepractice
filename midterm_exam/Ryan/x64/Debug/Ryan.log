@@ -1,0 +1,7 @@
+﻿  라이언.cpp
+C:\Users\dldyd\Desktop\2years 2semesters\vc++\midterm_exam\midterm_exam (2)\Ryan\라이언.cpp(299,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dldyd\Desktop\2years 2semesters\vc++\midterm_exam\midterm_exam (2)\Ryan\라이언.cpp(299,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dldyd\Desktop\2years 2semesters\vc++\midterm_exam\midterm_exam (2)\Ryan\라이언.cpp(299,39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dldyd\Desktop\2years 2semesters\vc++\midterm_exam\midterm_exam (2)\Ryan\라이언.cpp(299,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dldyd\Desktop\2years 2semesters\vc++\midterm_exam\midterm_exam (2)\Ryan\라이언.cpp(377,15): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ryan.vcxproj -> C:\Users\dldyd\Desktop\2years 2semesters\vc++\midterm_exam\midterm_exam (2)\x64\Debug\Ryan.exe
